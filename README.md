@@ -62,7 +62,7 @@ Install my-project with npm
 Clone the project
 
 ```bash
-  git clone https://github.com/doandroidsdreamof/havas-unit-testing-case-study.git
+  git clone https://github.com/doandroidsdreamof/havas-accessible--navbar-case-study.git
 ```
 
 Go to the project directory
